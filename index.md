@@ -1,6 +1,8 @@
-====== Hippocampal Neuropil in 3DEM: A Resource to Train Users, Model Data, and Enhance Autosegmentation Tools -- Data Guide =======
+## Hippocampal Neuropil in 3DEM: A Resource to Train Users, Model Data, and Enhance Autosegmentation Tools
+### Data Guide 
 
-This dataset contains three volumes of hippocampal CA1 neuropil from adult rat. Images and traces are available for three distinct regions: 
+This dataset contains three volumes of hippocampal CA1 neuropil from adult rat. Images and traces are available for three distinct regions:
+
   * A cube (~10 um^3) surrounding a large dendritic spine
   * A cylinder (~43 um^3) surrounding an oblique dendritic segment (3.4 um long)
   * An irregular rectangle (~178 um^3) surrounding an apical dendritic segment (4.9 um long) 
