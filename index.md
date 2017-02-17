@@ -104,6 +104,7 @@ All images and annotations are available in [CATMAID](http://openconnecto.me/cat
   * [Oblique Volume](http://openconnecto.me/catmaid/?pid=67&tool=navigator&sid0=104&s0=1)
   * [Spine Volume](http://openconnecto.me/catmaid/?pid=65&tool=navigator&sid0=102&s0=1)
 
+<a name="download-data"></a>
 ### Download Data 
 
 #### Image Files 
@@ -133,6 +134,7 @@ Unaligned images and reconstruct project files are available at the links below.
 
 To open data files in RECONSTRUCT, see our brief reconstruct guide (ABTODO: link?) below. 
 
+<a name="data-tools"></a>
 ### Data Tools 
 Three data tools are provided to interact with the data. 
 
