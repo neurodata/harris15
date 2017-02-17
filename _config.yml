@@ -2,4 +2,4 @@ name: "Hippocampal Neuropil in 3DEM"
 markdown: kramdown
 theme: jekyll-theme-minimal
 
-site.title: "Hippocampal Neuropil in 3DEM"
+title: "SynapseWeb at Neurodata"
